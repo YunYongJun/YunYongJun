@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YunYongJun&show_icons=true&theme=radical" style="height: 200px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunYongJun&layout=compact" style="height: 200px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YunYongJun&show_icons=true&theme=radical" style="height: 190px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunYongJun&layout=compact" style="height: 190px;"/>
 </div>
 
 <h2 align="left">💫 Skills </h3>
