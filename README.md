@@ -4,6 +4,7 @@
 </div>
 
 <h3 align="left">💫 Skill </h3>
+<h4 align="left"> Framework & Language </h4> 
 <div>
   <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
   <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />&nbsp
@@ -30,6 +31,7 @@
   <img src = "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />&nbsp
   <img src = "https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white" />&nbsp
   <img src = "https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white" />&nbsp
+  
 </div>
 
 
