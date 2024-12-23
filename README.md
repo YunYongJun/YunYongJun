@@ -23,7 +23,6 @@
   <img src = "https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src = "https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src = "https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />&nbsp
-  <img src = "https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white" />&nbsp
 </div>
 
 <h3 align="left">🛠 Tools </h3>
@@ -32,7 +31,7 @@
   <img src = "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />&nbsp
   <img src = "https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white" />&nbsp
   <img src = "https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" />&nbsp
-  
+  <img src = "https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white" />&nbsp
 </div>
 
 
