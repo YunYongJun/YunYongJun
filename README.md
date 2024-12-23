@@ -3,8 +3,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunYongJun&layout=compact" />
 </div>
 
-<h3 align="left">💫 Skills </h3>
-<h4 align="left"> Platforms & Language </h4> 
+<h2 align="left">💫 Skills </h3>
+<h3 align="left"> Platforms & Language </h3> 
 <div>
   <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
   <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />&nbsp
