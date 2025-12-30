@@ -1,7 +1,7 @@
 <div align="center">
 
-[![YongJun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YunYongJun&show_icons=true&theme=radical)](https://github.com/YunYongJun/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunYongJun&layout=compact&theme=radical)](https://github.com/YunYongJun/github-readme-stats)
+[![YongJun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YunYongJun&show_icons=true&theme=radical)](https://github.com/YunYongJun/YunYongJun/edit/main/README.md)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunYongJun&layout=compact&theme=radical)](https://github.com/YunYongJun/YunYongJun/edit/main/README.md)
 
 </div>
 
