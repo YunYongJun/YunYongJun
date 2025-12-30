@@ -1,7 +1,7 @@
 <div align="center">
 
-[![YongJun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YunYongJun&show_icons=true&theme=radical)](https://github.com/YunYongJun/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunYongJun&layout=compact&theme=radical)](https://github.com/YunYongJun/github-readme-stats)
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=YunYongJun&show_icons=true&theme=radical" height="180" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YunYongJun&layout=compact&theme=radical" height="180" />
 
 </div>
 
