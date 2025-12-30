@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YunYongJun&show_icons=true&theme=radical" style="height: 190px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunYongJun&layout=compact" style="height: 190px;"/>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YunYongJun&show_icons=true&theme=radical)
 </div>
 
 <h2 align="left">💫 Skills </h3>
