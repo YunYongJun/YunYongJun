@@ -2,6 +2,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=YunYongJun&show_icons=true&theme=radical&custom_title=YongJun's%20GitHub%20Stats" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunYongJun&layout=compact&theme=radical" height="180px" />
 </div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <h2 align="left">💫 Skills </h3>
 <h3 align="left">📚 Platforms & Language </h3> 
