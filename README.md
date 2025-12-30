@@ -2,7 +2,7 @@
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=YunYongJun&show_icons=true&theme=radical" height="180" />
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YunYongJun&layout=compact&theme=radical" height="180" />
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunyongjun)](https://solved.ac/yunyongjun)
 </div>
 
 <h2 align="left">💫 Skills </h3>
