@@ -6,6 +6,7 @@
 
 [![My GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=YunYongJun&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YunYongJun&layout=compact&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YunYongJun)](https://github.com/YunYongJun/github-readme-stats)
 
 <h2 align="left">💫 Skills </h3>
 <h3 align="left">📚 Platforms & Language </h3> 
