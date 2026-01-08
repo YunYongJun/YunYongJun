@@ -4,6 +4,11 @@
   <br> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yunyongjun&t=20260107" height="180" />
 </div>
 
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YunYongJun&show_icons=true&theme=radical)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=YunYongJun)](https://github.com/YunYongJun/github-readme-stats)
+# 🚀 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunYongJun&layout=compact&theme=vision-friendly-dark)
+
 <h2 align="left">💫 Skills </h3>
 <h3 align="left">📚 Platforms & Language </h3> 
 <div>
