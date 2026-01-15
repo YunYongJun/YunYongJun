@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=YunYongJun&show_icons=true&theme=radical&cache_seconds=1800&v=3" height="180" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YunYongJun&layout=compact&theme=radical&cache_seconds=1800&v=3" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=YunYongJun&show_icons=true&theme=radical&cache_seconds=1900&v=3" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YunYongJun&layout=compact&theme=radical&cache_seconds=1900&v=3" height="180" />
   <br> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yunyongjun&t=20260107" height="180" />
 </div>
 
